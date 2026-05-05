@@ -1,4 +1,4 @@
-# 💙 Plataforma Informativa sobre Autismo
+# Plataforma Informativa sobre Autismo
 
 <p align="center">
   <img src="img/banner.png" width="600"/>
@@ -19,13 +19,13 @@ A plataforma foi pensada para diferentes públicos:
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Promover **informação, inclusão e acessibilidade digital**, contribuindo para uma sociedade mais empática e consciente.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -35,7 +35,7 @@ Promover **informação, inclusão e acessibilidade digital**, contribuindo para
 
 ---
 
-## 👩‍💻 Equipe
+## Equipe
 
 Este projeto foi desenvolvido por:
 
@@ -44,10 +44,10 @@ Este projeto foi desenvolvido por:
 - Maria Luiza Lima  
 - Suzane Soares  
 
-🎓 Estudantes de **Desenvolvimento de Sistemas (3º semestre)**  
-🏫 SENAI Sorocaba  
+Estudantes de **Desenvolvimento de Sistemas (3º semestre)**  
+  SENAI Sorocaba  
 
 
-## 📄 Licença
+## Licença
 
 Este projeto é de caráter educacional.
