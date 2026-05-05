@@ -1,7 +1,8 @@
 # Plataforma Informativa sobre Autismo
 
 <p align="center">
-  <img src="img/banner.png" width="600"/>
+  <img src="img/<img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/3c5a8eb8-b2ee-48d0-8868-0195b00919ac" />
+" width="600"/>
 </p>
 
 ## 🧩 Sobre o projeto
