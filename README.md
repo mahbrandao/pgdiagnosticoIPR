@@ -1,9 +1,5 @@
 # Plataforma Informativa sobre Autismo
 
-<p align="center">
-  <img src="img/preview.png width="467" height="317" alt="preview" />
-</p>
-
 ## 🧩 Sobre o projeto
 
 Este site foi desenvolvido com o objetivo de **informar, acolher e facilitar o acesso a conteúdos sobre o Transtorno do Espectro Autista (TEA)**.
