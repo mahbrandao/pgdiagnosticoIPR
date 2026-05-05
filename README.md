@@ -1,7 +1,8 @@
 # Plataforma Informativa sobre Autismo
 
 <p align="center">
-  <img src="img/<img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/3c5a8eb8-b2ee-48d0-8868-0195b00919ac" />
+  <img src="img/<img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/057ecd88-04fb-4b06-b98d-d0ea059a35e3" />
+ width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/3c5a8eb8-b2ee-48d0-8868-0195b00919ac" />
 " width="600"/>
 </p>
 
