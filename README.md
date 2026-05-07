@@ -21,6 +21,14 @@ Promover **informação, inclusão e acessibilidade digital**, contribuindo para
 
 ---
 
+## Funcionalidades
+
+- Informações sobre o Transtorno do Espectro Autista (TEA)
+- Modo com menos estímulos visuais
+- Conteúdos educativos e informativos
+- Interface acessível e responsiva
+- nformações sobre direitos garantidos por lei
+- Conteúdo pensado para diferentes públicos
 ## Tecnologias utilizadas
 
 <p align="center">
@@ -45,5 +53,20 @@ Estudantes de **Desenvolvimento de Sistemas (3º semestre)**
 
 
 ## Licença
-
 Este projeto é de caráter educacional.
+
+---
+
+## Como executar o projeto
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+### Abra o projeto
+
+Abra a pasta do projeto no VS Code e execute o arquivo `index.html`.
+
+Ou utilize a extensão **Live Server** para melhor visualização.
